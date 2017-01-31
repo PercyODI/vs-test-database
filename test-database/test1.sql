@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[test1]
+(
+	[Id] INT NOT NULL PRIMARY KEY,
+	[SomeValue] BIT DEFAULT 0
+)
